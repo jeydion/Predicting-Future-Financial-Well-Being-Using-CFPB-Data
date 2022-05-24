@@ -1,4 +1,4 @@
-# capstone_project_2
+# Predicting Future Financial Well-Being Using CFPB Data
 #################################### EXECUTIVE SUMMARY #####################################
 
 Situation: The Consumer Financial Protection Bureau has begun publishing a survey that aims to map the Financial Well-Being of it's participants. The survey has a wide range of questions pertaining to financial literacy and self-assessment regarding financial choices and plans. The goal is to give people the tools to make better financial decisions to improve their financial well-being. 
